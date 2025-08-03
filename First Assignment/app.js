@@ -80,7 +80,7 @@ console.log("Hello Arzoo");
 //   console.log("The sum is Odd: " + sum);
 // }
 
-// 10th Question
-// 
+
 
 // Assignment Completed
+
